@@ -1,3 +1,5 @@
+// multi_languages
+
 const lines = ["C is fun", "Python is cool", "JavaScript is amazing"];
 let result = "";
 
