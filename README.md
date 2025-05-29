@@ -1,2 +1,1 @@
-# JS-Fundamentals
-Fundamentals of JavaScript
+# My_First_Portfolio
